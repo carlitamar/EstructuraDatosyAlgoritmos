@@ -1,0 +1,3 @@
+Escribe un programa que permita determinar el valor final de una expresión que usa los siguientes tipos de operadores y parentesis: +, -, *, /, ^, (, ). Por ejemplo: (8*3/(2+2))*2. La expresión se ingresa por consola (es decir, debes usar argv y argc) y debe desplegar por pantalla el resultado final. La prioriedad de los operadores y de los paréntesis se toman en cuenta. 
+
+ 
